@@ -1,0 +1,13 @@
+{
+  "name": "shopify-invoice-whatsapp-automation",
+  "version": "1.0.0",
+  "description": "Shopify invoice generation, PDF creation, order export, delivery status tracking, and WhatsApp messaging automation.",
+  "main": "server/whatsapp.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "puppeteer": "^24.0.0"
+  }
+}
